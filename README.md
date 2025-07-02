@@ -1,3 +1,7 @@
+# PROJECT STRUCTURE 
+<pre> <code> ``` QuizManagementSystem/ ├── src/ │ └── com/quizapp/ │ ├── Main.java │ ├── DBConnection.java │ ├── Question.java │ ├── QuestionDAO.java │ ├── AddQuestionFrame.java │ └── QuizFrame.java ├── resources/ │ └── schema.sql ├── lib/ │ └── sqlite-jdbc-3.45.2.0.jar ├── bin/ ├── .vscode/ │ ├── settings.json │ ├── tasks.json │ └── launch.json └── README.md ``` </code> </pre>
+     
+
 # Quiz Management System (Java Swing + SQLite)
 
 A simple GUI quiz application written in core Java. 100 % offline, no servers.
